@@ -1,4 +1,4 @@
-# Diameter Stats Viz
+# Diameter Stats Visual
 
 A Python-based statistical analysis of sample diameter measurements.  
 This project calculates confidence intervals (90% and 99%) for the sample mean, computes key statistics, and visualizes the results with histograms and error bar plots.
